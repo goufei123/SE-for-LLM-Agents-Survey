@@ -33,6 +33,22 @@ Each stage page connects **engineering problems → approaches → key ideas →
 
 This repository hosts the manuscript and curated literature resources. Paper links point to publishers, repositories, or author pages; third-party full-text PDFs are not redistributed here.
 
+## Citation
+
+To cite the current manuscript:
+
+```bibtex
+@unpublished{ge2026softwareengineeringagents,
+  title  = {Software Engineering for {LLM}-Based Agents: A Lifecycle-Oriented Survey},
+  author = {Ge, Yifei and Feng, Yalin and Sun, Weisong and Shi, Junjie and
+            Chen, Zhenpeng and Fang, Chunrong and Zhao, Zhihong and
+            Chen, Zhenyu and Liu, Yang and Jin, Zhi},
+  year   = {2026},
+  note   = {Unpublished manuscript},
+  url    = {https://github.com/goufei123/SE-for-LLM-Agents-Survey}
+}
+```
+
 ## Updates
 
 - **2026-11-10:** Initial private companion repository with the current manuscript, five lifecycle reading guides, and nine comparison tables.
